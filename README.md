@@ -1,1 +1,1 @@
-# wizam_dev
+# wizam
